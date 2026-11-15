@@ -1,7 +1,7 @@
-# 👋 Hi, I'm
+# 👋 Hi, I'm KS Shafin
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=60&lines=KS+SHAFIN+%F0%9F%91%8B;Full-Stack+Developer;Creative+Digital+Creator" alt="KS Shafin Animated Name" />
+  <strong>Full-Stack Developer | Web Technologies | Creative Digital Media</strong>
 </p>
 
 <p align="center">
@@ -35,31 +35,37 @@ I enjoy working across the full development process — from designing user inte
 ## 🛠️ Technical Skills
 
 ### Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
 ### Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind" />
 </p>
 
 ### Backend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=django,nodejs,python" />
 </p>
 
 ### Database Technologies
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
 </p>
 
 ### Development Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
 </p>
 
 ### Creative Skills
+
 - 🎬 Video Editing
 - 🎨 Digital Content Presentation
 - ✨ Visual Design & Creative Media
@@ -78,13 +84,13 @@ A digital campus companion platform designed to improve the academic experience 
 - Personalized student dashboard.
 - Academic productivity tools.
 
-🔗 **Live Website:** https://mydtibyksshafin.vercel.app/
+🔗 **Live Website:** [mydtibyksshafin.vercel.app](https://mydtibyksshafin.vercel.app/)
 
 ### 02. Dynamic Lab Report Generator
 
 A web-based application designed to make laboratory report generation easier and more efficient.
 
-🔗 **GitHub:** https://github.com/KsShafin18/Dynamic-Lab-Report-Generator-for-DTI
+🔗 **GitHub Repository:** [Dynamic Lab Report Generator](https://github.com/KsShafin18/Dynamic-Lab-Report-Generator-for-DTI)
 
 ### 03. Authentication & CRUD System
 
@@ -112,6 +118,8 @@ A Django-based application focused on implementing user authentication and Creat
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <i>"Turning ideas into digital experiences, one project at a time."</i>
