@@ -1,7 +1,7 @@
-# 👋 Hi, I'm MD Khairul Sarder Shafin (KS Shafin)
+# 👋 Hi, I'm
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Web+Application+Developer;Python+%7C+Django+%7C+React;Node.js+%7C+Database+Technologies;Creative+Digital+Media+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=60&lines=KS+SHAFIN+%F0%9F%91%8B;Full-Stack+Developer;Creative+Digital+Creator" alt="KS Shafin Animated Name" />
 </p>
 
 <p align="center">
@@ -94,27 +94,10 @@ A Django-based application focused on implementing user authentication and Creat
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KsShafin18&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KsShafin18&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KsShafin18&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KsShafin18&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -128,12 +111,6 @@ A Django-based application focused on implementing user authentication and Creat
   <a href="https://github.com/KsShafin18">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KsShafin18&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center">
