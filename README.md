@@ -1,4 +1,4 @@
-# 👋 Hi, I'm KS Shafin
+# 👋 Hi, I'm MD KHAIRUL SARDER SHAFIN (KS SHAFIN)
 
 <p align="center">
   <strong>Full-Stack Developer | Web Technologies | Creative Digital Media</strong>
