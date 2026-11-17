@@ -11,27 +11,7 @@
   <a href="https://github.com/KsShafin18">
     <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
----
-
-## 🚀 About Me
-
-I'm a passionate developer interested in building modern web applications, developing efficient backend systems, and creating meaningful digital experiences.
-
-I enjoy exploring different areas of software development, turning ideas into practical solutions, and continuously improving my technical skills through hands-on projects.
-
-- 💻 Focused on Full-Stack and Web Application Development.
-- 🐍 Working with Python and Django.
-- ⚛️ Exploring modern frontend development with React.
-- 🟢 Interested in Node.js and backend technologies.
-- 🗄️ Exploring database design and management.
-- 🎬 Interested in Creative Digital Media and Video Editing.
-- 🎓 Diploma in Computer Science & Technology at Daffodil Technical Institute.
-- 🌱 Committed to continuous learning and practical development.
-
----
-
+  
 ## 🛠️ Technologies & Tools
 
 ### Programming & Development
