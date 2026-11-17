@@ -1,116 +1,98 @@
-# 👋 Hi, I'm MD KHAIRUL SARDER SHAFIN (KS Shafin)
+# MD KHAIRUL SARDER SHAFIN
+### `KS SHAFIN` · Full-Stack Developer
 
 <p align="center">
-  <strong>Full-Stack Developer | Web Application Development | Backend Developer </strong>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Developing+Backend+Solutions;Turning+Ideas+Into+Digital+Experiences" />
 </p>
+
+<p align="center">
+  <a href="https://ksportfolio-seven.vercel.app/">PORTFOLIO ↗</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/KsShafin18">GITHUB ↗</a>
+</p>
+
+---
+
+### ABOUT
+
+I'm a developer focused on building modern web applications and backend solutions. I enjoy transforming ideas into functional digital products through clean development practices, continuous learning, and practical problem-solving.
+
+- **Education** — Diploma in Computer Science & Technology
+- **Institution** — Daffodil Technical Institute
+- **Focus** — Full-Stack Development & Backend Engineering
+- **Interests** — Software Development, Web Technologies & Creative Media
+
+---
+
+### TECHNICAL EXPERTISE
+
+| Category | Technologies |
+|:--|:--|
+| **Languages** | Python · JavaScript |
+| **Frontend** | React · Bootstrap · Tailwind CSS |
+| **Backend** | Django · Node.js |
+| **Database** | MySQL · SQLite · MongoDB |
+| **Tools** | Git · GitHub · VS Code · Vercel · Figma |
+| **Creative** | Video Editing · Visual Content Design |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,bootstrap,tailwind,django,nodejs,mysql,sqlite,mongodb,git,github,vscode,vercel,figma&perline=8" />
+</p>
+
+---
+
+### SELECTED WORK
+
+**01 / MY DTI**
+
+**Digital Campus Companion**
+
+A student-focused digital platform designed to simplify academic activities at Daffodil Technical Institute.
+
+- Academic routines and class schedules
+- Instructor and classroom information
+- Personalized student dashboard
+- Academic productivity tools
+
+[EXPLORE PROJECT ↗](https://mydtibyksshafin.vercel.app/)
+
+---
+
+**02 / DYNAMIC LAB REPORT GENERATOR**
+
+A web-based solution designed to simplify and streamline the laboratory report generation process.
+
+[VIEW SOURCE CODE ↗](https://github.com/KsShafin18/Dynamic-Lab-Report-Generator-for-DTI)
+
+---
+
+**03 / AUTHENTICATION & CRUD SYSTEM**
+
+A Django-based application implementing user authentication and essential database operations, including Create, Read, Update and Delete.
+
+**Stack:** Python · Django · HTML · CSS
+
+---
+
+### DEVELOPMENT ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KsShafin18&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="90%" />
+</p>
+
+---
+
+### LET'S CONNECT
 
 <p align="center">
   <a href="https://ksportfolio-seven.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/WEBSITE-Visit%20Portfolio-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/KsShafin18">
-    <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-## 🛠️ Technologies & Tools
-
-### Programming & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript" alt="Programming Technologies" />
-</p>
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend Technologies" />
-</p>
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,nodejs" alt="Backend Technologies" />
-</p>
-
-### Database Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Database Technologies" />
-</p>
-
-### Development Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" alt="Development Tools" />
-</p>
-
-### Creative & Multimedia
-
-- 🎬 Video Editing
-- 🎨 Visual Content Design
-- ✨ Creative Digital Presentation
-
----
-
-## 🚀 Featured Projects
-
-### 01 | My DTI — Digital Campus Companion
-
-A digital campus companion platform designed to simplify and enhance the academic experience of students at Daffodil Technical Institute.
-
-**Key Features**
-- Digital class routines and schedules.
-- Instructor and classroom information.
-- Personalized student dashboard.
-- Academic productivity tools.
-
-<p>
-  <a href="https://mydtibyksshafin.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-2EA44F?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/GITHUB-KsShafin18-24292e?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
-
-### 02 | Dynamic Lab Report Generator
-
-A web-based project designed to simplify and streamline the laboratory report generation process.
-
-<p>
-  <a href="https://github.com/KsShafin18/Dynamic-Lab-Report-Generator-for-DTI">
-    <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
-  </a>
-</p>
-
-### 03 | Authentication & CRUD System
-
-A Django-based application focused on user authentication and essential database operations, including Create, Read, Update, and Delete functionality.
-
-**Technologies:** Python, Django, HTML, CSS.
-
----
-
-## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KsShafin18&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <sub>BUILD • LEARN • CREATE • REPEAT</sub>
 </p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://ksportfolio-seven.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
-  </a>
-  <a href="https://github.com/KsShafin18">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Turning ideas into digital experiences, one project at a time."</i>
-</p>
-
-<h3 align="center">Thanks for visiting my profile! 👋</h3>
