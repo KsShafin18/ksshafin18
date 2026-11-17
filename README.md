@@ -17,13 +17,9 @@
 
 I'm a developer focused on building modern web applications and backend solutions. I enjoy transforming ideas into functional digital products through clean development practices, continuous learning, and practical problem-solving.
 
-- **Education** — Diploma in Computer Science & Technology
-- **Institution** — Daffodil Technical Institute
 - **Focus** — Full-Stack Development & Backend Engineering
 - **Interests** — Software Development, Web Technologies & Creative Media
-
 ---
-
 ### TECHNICAL EXPERTISE
 
 | Category | Technologies |
